@@ -1,7 +1,10 @@
 # Adaptive Resonance Suppressor
 
+## Requirement to compile the code  
 
-## Installation  
+JUCE 7.0.3 or above  
+
+## VST3 Installation  
 
 To use the VST in your DAW:   
 
