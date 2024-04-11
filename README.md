@@ -1,5 +1,7 @@
 # Adaptive Resonance Suppressor
 
+<img width="868" alt="screenshot" src="https://github.com/jasper-zheng/resonance-suppressor/assets/74963879/81cde66f-e26f-469b-89a8-d376a01b613c">
+
 ## Requirement to compile the code  
 
 JUCE 7.0.3 or above  
