@@ -1,6 +1,7 @@
 # Adaptive Resonance Suppressor
 
-<img width="868" alt="screenshot" src="https://github.com/jasper-zheng/resonance-suppressor/assets/74963879/81cde66f-e26f-469b-89a8-d376a01b613c">
+![cover](https://github.com/jasper-zheng/resonance-suppressor/assets/74963879/b4a17d49-8dc5-4087-8327-12bbf0078149)
+
 
 ## Requirement to compile the code  
 
